@@ -1,4 +1,4 @@
-# Dicas e atalhos do GIThub
+# Instalação, Dicas e atalhos do Git e GitHub
 
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="150" />
